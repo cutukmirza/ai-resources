@@ -6,3 +6,6 @@ This repository contains a list of useful AI tools primarily for developers and 
 
 ## Security
 [PyRIT](https://azure.github.io/PyRIT/) - AI red teaming
+
+## RAG
+[Cognee](https://github.com/topoteretes/cognee) - Graph RAG
